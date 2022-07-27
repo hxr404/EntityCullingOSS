@@ -1,3 +1,6 @@
+# Abou this fork
+This project was forked of 761d00abc6b28cd39e9ba6a59026f280878fff8f, the last Open Source Version of Entity Culling. In b5bb2d4f12393712cfcf079860dcaa9e60d8d37f the License was changed to a proprietary License, meaning everything committed from then isn't subject to the MIT License anymore. (All previous contributions are, though, because MIT isn't revokable).
+
 # EntityCulling
 
 __Using async path-tracing to skip rendering Tiles/Entities that are not visible.__
